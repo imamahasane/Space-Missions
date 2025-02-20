@@ -8,3 +8,4 @@
 ## Q6: Which year had the most space missions?
 ## Q7:Which countries have launched the most space missions?
 ## Q8: What is the average cost of a space mission, and how does it vary by Company?
+## Q9: What is the success rate of missions by rocket type?
