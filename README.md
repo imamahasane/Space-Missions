@@ -1,4 +1,7 @@
 # Space Missions
+Data: https://www.kaggle.com/datasets/imamahasane/space-missions 
+
+kaggle: https://www.kaggle.com/code/imamahasane/spacemissions
 
 ## Q1: Count the total number of missions for each company
 ## Q2: Count the number of successful missions for each company
